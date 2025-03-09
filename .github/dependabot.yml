@@ -1,0 +1,39 @@
+name: Dependabot Updates
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Runs every Monday at 00:00
+  push:
+    paths:
+      - '**/package.json'
+      - '**/package-lock.json'
+      - '.github/dependable.yml'
+
+jobs:
+  update_dependencies:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16' # Use the latest LTS version of Node.js
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Update dependencies
+      run: npx npm-check-updates -u
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m 'chore: update dependencies'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
