@@ -29,6 +29,15 @@ The good news is, that just as many, if not more businesses, journalists, activi
 
 "Having nothing to hide" does not work anymore. Your internet activity is an asset used to influence your purchases, attention and votes. Email service can see what and when you buy, who you talk to, which websites you sign up at. Encrypted email service cannot access any of those information.
 
+## Mentions about Mailum
+
+- [Anybody have much experience with mailum/cyberfear?](https://www.reddit.com/r/emailprivacy/comments/1fi2pgc/anybody_have_much_experience_with_mailumcyberfear/)
+- [CyberFear’s Mailum Thoughts?](https://www.reddit.com/r/emailprivacy/comments/1be61kh/cyberfears_mailum_thoughts/)
+
+## License
+
+We use AGPL v3.0 to respect the open source code community.
+
 Reclaim your online privacy.
 
 It’s the perfect time to do so.
