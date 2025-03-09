@@ -81,3 +81,13 @@ CMD ["npm", "start"]
 - ForwardEmail retains SMTP metadata for 30 days.
 
 - Both providers comply with legal warrants in their jurisdictions.
+
+## 🤝 Contributing
+
+Submit PRs with:
+
+- Additional code analysis
+
+- Encryption test cases
+
+- Provider feature updates
