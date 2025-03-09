@@ -5,6 +5,7 @@ Independent analysis of Mailum's anonymous encrypted email service based on fron
 ```bash
 git clone https://github.com/mailum-frontend/mailum-frontend
 cd mailum-frontend
+```
 
 🔍 Audit Findings (Frontend Code Analysis)
 
