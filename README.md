@@ -19,7 +19,7 @@ const encrypted = await pgp.encrypt({
 });
 ```
 
-Metadata Handling
+Metadata Handling (ForwardEmail)
 ```
 $ grep -r 'encryptedPacket' ./src/
 ▶ 27 instances of header encapsulation
