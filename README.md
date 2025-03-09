@@ -32,7 +32,7 @@ $ grep -r 'encryptedPacket' ./src/
 | Feature                | Mailum                   | ForwardEmail            |
 |------------------------|--------------------------|-------------------------|
 | **Encryption Scope**   | Body+Headers+Metadata | Body Only         |
-| **Jurisdiction**       | Offshore (Unspecified)   | US-Based (California) |
+| **Jurisdiction**       | Offshore (Poland)   | US-Based (California) |
 | **Code Transparency**  | Frontend Open Source| Full Stack Open Source |
 | **Storage Encryption** | AES-256 + PGP      | AES-256 + SQLite  |
 | **Trustpilot Rating**  | N/A                      | 3.3/5 (Mixed Reviews)|
