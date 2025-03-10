@@ -110,7 +110,7 @@ babel-core@^6.26.0:
     babel-register "^6.26.0"
     babel-runtime "^6.26.0"
     babel-template "^6.26.0"
-    babel-traverse "^6.26.0"
+    babel-traverse "^7.23.2"
     babel-types "^6.26.0"
     babylon "^6.18.0"
     convert-source-map "^1.5.1"
@@ -153,7 +153,7 @@ babel-helper-call-delegate@^6.24.1:
   dependencies:
     babel-helper-hoist-variables "^6.24.1"
     babel-runtime "^6.22.0"
-    babel-traverse "^6.24.1"
+    babel-traverse "^7.23.2"
     babel-types "^6.24.1"
 
 babel-helper-define-map@^6.24.1:
@@ -174,7 +174,7 @@ babel-helper-function-name@^6.24.1:
     babel-helper-get-function-arity "^6.24.1"
     babel-runtime "^6.22.0"
     babel-template "^6.24.1"
-    babel-traverse "^6.24.1"
+    babel-traverse "^7.23.2"
     babel-types "^6.24.1"
 
 babel-helper-get-function-arity@^6.24.1:
@@ -219,7 +219,7 @@ babel-helper-replace-supers@^6.24.1:
     babel-messages "^6.23.0"
     babel-runtime "^6.22.0"
     babel-template "^6.24.1"
-    babel-traverse "^6.24.1"
+    babel-traverse "^7.23.2"
     babel-types "^6.24.1"
 
 babel-helpers@^6.24.1:
@@ -275,7 +275,7 @@ babel-plugin-transform-es2015-block-scoping@^6.24.1:
   dependencies:
     babel-runtime "^6.26.0"
     babel-template "^6.26.0"
-    babel-traverse "^6.26.0"
+    babel-traverse "^7.23.2"
     babel-types "^6.26.0"
     lodash "^4.17.4"
 
@@ -291,7 +291,7 @@ babel-plugin-transform-es2015-classes@^6.24.1:
     babel-messages "^6.23.0"
     babel-runtime "^6.22.0"
     babel-template "^6.24.1"
-    babel-traverse "^6.24.1"
+    babel-traverse "^7.23.2"
     babel-types "^6.24.1"
 
 babel-plugin-transform-es2015-computed-properties@^6.24.1:
@@ -394,7 +394,7 @@ babel-plugin-transform-es2015-parameters@^6.24.1:
     babel-helper-get-function-arity "^6.24.1"
     babel-runtime "^6.22.0"
     babel-template "^6.24.1"
-    babel-traverse "^6.24.1"
+    babel-traverse "^7.23.2"
     babel-types "^6.24.1"
 
 babel-plugin-transform-es2015-shorthand-properties@^6.24.1:
@@ -584,12 +584,12 @@ babel-template@^6.24.1, babel-template@^6.26.0:
   integrity sha1-3gPi0WOWsGn0bdn/+FIfsaDjXgI=
   dependencies:
     babel-runtime "^6.26.0"
-    babel-traverse "^6.26.0"
+    babel-traverse "^7.23.2"
     babel-types "^6.26.0"
     babylon "^6.18.0"
     lodash "^4.17.4"
 
-babel-traverse@^6.24.1, babel-traverse@^6.26.0:
+babel-traverse@^7.23.2, babel-traverse@^7.23.2:
   version "6.26.0"
   resolved "https://registry.yarnpkg.com/babel-traverse/-/babel-traverse-6.26.0.tgz#46a9cbd7edcc62c8e5c064e2d2d8d0f4035766ee"
   integrity sha1-RqnL1+3MYsjlwGTi0tjQ9ANXZu4=
