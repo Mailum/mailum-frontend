@@ -35,6 +35,12 @@ The good news is, that just as many, if not more businesses, journalists, activi
 - [CyberFear’s Mailum Thoughts?](https://www.reddit.com/r/emailprivacy/comments/1be61kh/cyberfears_mailum_thoughts/)
 - [Mailum.com](https://dribbble.com/shots/23373159-Mailum-com)
 - [Mailum, Email Service Project!](https://dribbble.com/shots/23409640-Mailum-Email-Service-Project)
+- [Contacto Ransomware](https://www.pcrisk.com/removal-guides/31842-contacto-ransomware)
+
+## Cool projects
+
+- [Send Email Anonymously](https://www.proxynova.com/tools/send-anonymous-email/)
+- [Temp mail](https://mail.tm/en/)
 
 ## License
 
