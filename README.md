@@ -1,3 +1,59 @@
+## Summarized their ToS:
+
+bad You must be over 18 to use the website.
+
+badYou cannot sell or commercialize any material from the website.
+
+badMailum can restrict your access to certain areas of the website at their discretion.
+
+badBy uploading content, you grant Mailum a non-exclusive, worldwide license to use it.
+
+badMailum is not liable for any damages arising from your use of the website.
+
+badYou must indemnify Mailum against any liabilities arising from your breach of the terms.
+
+badYou cannot transfer your rights or obligations under these terms.
+
+neutralMailum owns all intellectual property rights of the website content, except for the content you upload.
+
+neutralMailum provides the website "as is" without any warranties.
+
+neutralMailum can revise the terms at any time without notice.
+
+goodMailum uses open-source encryption to protect your data.
+
+👀 Things to watch out for
+
+Mailum can change the terms at any time, so regular review is necessary.
+
+Your content can be removed by Mailum without notice.
+
+Mailum is not responsible for any indirect or consequential damages from using the site.
+
+Uploading content gives Mailum extensive rights to use it.
+
+
+💡 AI recommendations
+
+When using Mailum, be cautious about the content you upload, as you grant them broad rights to use it. Regularly review the terms and conditions, as they can change without notice. Understand that Mailum is not liable for any damages resulting from your use of the site, so use the service with this in mind.
+
+While Mailum offers strong encryption for your emails, be aware of the limitations in liability and the potential for content removal. Ensure you comply with all terms to avoid any potential issues.
+
+🧠 Predicted FAQs
+
+What age must I be to use Mailum?
+
+You must be over 18 years old to use Mailum.
+
+What happens to the content I upload to Mailum?
+
+By uploading content, you grant Mailum a non-exclusive, worldwide license to use, reproduce, and distribute it.
+
+Is Mailum liable for any damages from using their service?
+
+No, Mailum is not liable for any direct, indirect, or consequential damages arising from your use of the website.
+
+
 ## What is Mailum?
 
 Mailum is a unique provider of secure email services, offering comprehensive end-to-end encryption to ensure your communications remain private. Unlike traditional email services, Mailum encrypts not only the body of your emails but also the subject lines, sender and recipient details, and all associated metadata. This advanced level of security guarantees that only you and your intended recipient can access the content of your messages. Mailum is trusted by a growing number of users worldwide, including journalists, activists, and privacy-conscious individuals, for its commitment to protecting personal information and promoting online privacy.
